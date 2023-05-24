@@ -268,12 +268,6 @@ C:\Users\Bruno\OneDrive\Documentos\Projetos\GestãoEscolar\GestãoEscolar\obj\De
 C:\Users\Bruno\OneDrive\Documentos\Projetos\GestãoEscolar\GestãoEscolar\obj\Debug\net6.0\ref\GestaoEscolar.dll
 C:\Users\Bruno\OneDrive\Documentos\Projetos\GestãoEscolar\GestãoEscolar\obj\Debug\net6.0\GestaoEscolar.pdb
 C:\Users\Bruno\OneDrive\Documentos\Projetos\GestãoEscolar\GestãoEscolar\obj\Debug\net6.0\GestaoEscolar.genruntimeconfig.cache
-C:\Users\Bruno\OneDrive\Documentos\Projetos\GestãoEscolar\GestãoEscolar\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Users\Bruno\OneDrive\Documentos\Projetos\GestãoEscolar\GestãoEscolar\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\Bruno\OneDrive\Documentos\Projetos\GestãoEscolar\GestãoEscolar\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\Bruno\OneDrive\Documentos\Projetos\GestãoEscolar\GestãoEscolar\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
-C:\Users\Bruno\OneDrive\Documentos\Projetos\GestãoEscolar\GestãoEscolar\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\Bruno\OneDrive\Documentos\Projetos\GestãoEscolar\GestãoEscolar\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
-C:\Users\Bruno\OneDrive\Documentos\Projetos\GestãoEscolar\GestãoEscolar\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
 C:\Users\Bruno\OneDrive\Documentos\Projetos\GestãoEscolar\GestãoEscolar\bin\Debug\net6.0\MySqlConnector.dll
 C:\Users\Bruno\OneDrive\Documentos\Projetos\GestãoEscolar\GestãoEscolar\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Bruno\OneDrive\Documentos\Projetos\GestãoEscolar\GestãoEscolar\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
